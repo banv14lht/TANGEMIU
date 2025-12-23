@@ -10,7 +10,7 @@ const textConfig = {
     text7: "Viết gì đó về anh đi (10 từ)",
     text8: "Gửi",
     text9: "🖕🖕🖕🖕🖕🖕",
-    text10: "Anh biết mà ^^",
+    text10: "Áaaa؄Cayyy LIU LIU",
     text11:
       "😝😝😝",
     text12: "Okii nhận quà thôi <3",
@@ -157,3 +157,4 @@ const textConfig = {
     });
 
   });
+
