@@ -13,7 +13,7 @@ const textConfig = {
     text10: "Áaaa؄Cayyy LIU LIU",
     text11:
       "😝😝😝",
-    text12: "Okii nhận quà thôi <3",
+    text12: "Ừm Nhận Quà Đy",
   };
   
   $(document).ready(function () {
@@ -157,4 +157,5 @@ const textConfig = {
     });
 
   });
+
 
