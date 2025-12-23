@@ -9,10 +9,10 @@ const textConfig = {
     text6: "kó nhé",
     text7: "Viết gì đó về anh đi (10 từ)",
     text8: "Gửi",
-    text9: "Ba Văn Đẹp Trai Số 1 Việt Nam <33",
+    text9: "🖕🖕🖕🖕🖕🖕",
     text10: "Anh biết mà ^^",
     text11:
-      "Cảm ơn em vì đã thành thật =))",
+      "😝😝😝",
     text12: "Okii nhận quà thôi <3",
   };
   
@@ -155,4 +155,5 @@ const textConfig = {
         });
       });
     });
+
   });
