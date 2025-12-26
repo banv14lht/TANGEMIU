@@ -9,7 +9,7 @@ const textConfig = {
     text6: "kó nhé",
     text7: "Viết gì đó về anh đi (10 từ)",
     text8: "Gửi",
-    text9: "🖕🖕🖕🖕🖕🖕",
+    text9: "Fuck You",
     text10: "Áaaa؄Cayyy LIU LIU",
     text11:
       "😝😝😝",
@@ -157,5 +157,6 @@ const textConfig = {
     });
 
   });
+
 
 
